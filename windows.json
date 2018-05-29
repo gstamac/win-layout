@@ -1,0 +1,387 @@
+[
+  {
+    "Caption": "winlayout (Running) - Microsoft Visual Studio ",
+    "Class": "HwndWrapper[DefaultDomain;;4b6c6e0c-c484-4d86-8a94-9ae8a3f37b76]",
+    "Exec": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\Common7\\IDE\\devenv.exe",
+    "Rect": {
+      "left": 1912,
+      "top": 117,
+      "right": 3848,
+      "bottom": 1173
+    }
+  },
+  {
+    "Caption": "C:\\WINDOWS\\system32\\cmd.exe",
+    "Class": "ConsoleWindowClass",
+    "Exec": "C:\\Windows\\System32\\cmd.exe",
+    "Rect": {
+      "left": 2146,
+      "top": 159,
+      "right": 3120,
+      "bottom": 1206
+    }
+  },
+  {
+    "Caption": "windows.json - rtl2-bc-player - Visual Studio Code",
+    "Class": "Chrome_WidgetWin_1",
+    "Exec": "C:\\Program Files\\Microsoft VS Code\\Code.exe",
+    "Rect": {
+      "left": -8,
+      "top": -8,
+      "right": 1928,
+      "bottom": 1168
+    }
+  },
+  {
+    "Caption": "Commit to master (C:\\Repos\\GitHub\\win-layout\\)",
+    "Class": "WindowsForms10.Window.8.app.0.fb11c8_r6_ad1",
+    "Exec": "C:\\Program Files (x86)\\GitExtensions\\GitExtensions.exe",
+    "Rect": {
+      "left": -8,
+      "top": -8,
+      "right": 1928,
+      "bottom": 1168
+    }
+  },
+  {
+    "Caption": "win-layout (master) - Git Extensions",
+    "Class": "WindowsForms10.Window.8.app.0.fb11c8_r6_ad1",
+    "Exec": "C:\\Program Files (x86)\\GitExtensions\\GitExtensions.exe",
+    "Rect": {
+      "left": -8,
+      "top": -8,
+      "right": 1928,
+      "bottom": 1168
+    }
+  },
+  {
+    "Caption": "package.json - sds-windlog-fes - Visual Studio Code",
+    "Class": "Chrome_WidgetWin_1",
+    "Exec": "C:\\Program Files\\Microsoft VS Code\\Code.exe",
+    "Rect": {
+      "left": -8,
+      "top": -8,
+      "right": 1928,
+      "bottom": 1168
+    }
+  },
+  {
+    "Caption": "win-layout",
+    "Class": "CabinetWClass",
+    "Exec": "C:\\Windows\\explorer.exe",
+    "Rect": {
+      "left": 484,
+      "top": 263,
+      "right": 1509,
+      "bottom": 975
+    }
+  },
+  {
+    "Caption": "Microsoft/TypeScript-Vue-Starter: A starter template for TypeScript and Vue with a detailed README describing how to use the two together. - Firefox Developer Edition",
+    "Class": "MozillaWindowClass",
+    "Exec": "C:\\Program Files\\Firefox Developer Edition\\firefox.exe",
+    "Rect": {
+      "left": -8,
+      "top": -8,
+      "right": 1928,
+      "bottom": 1168
+    }
+  },
+  {
+    "Caption": "Windows My People",
+    "Class": "Windows.UI.Core.CoreWindow",
+    "Exec": "C:\\Windows\\SystemApps\\Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy\\PeopleExperienceHost.exe",
+    "Rect": {
+      "left": 1557,
+      "top": 1160,
+      "right": 1605,
+      "bottom": 1200
+    }
+  },
+  {
+    "Caption": "Windows My People",
+    "Class": "Windows.UI.Core.CoreWindow",
+    "Exec": "C:\\Windows\\SystemApps\\Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy\\PeopleExperienceHost.exe",
+    "Rect": {
+      "left": 0,
+      "top": 32,
+      "right": 360,
+      "bottom": 648
+    }
+  },
+  {
+    "Caption": "Windows My People",
+    "Class": "ApplicationFrameWindow",
+    "Exec": "C:\\Windows\\System32\\ApplicationFrameHost.exe",
+    "Rect": {
+      "left": 1393,
+      "top": 504,
+      "right": 1769,
+      "bottom": 1160
+    }
+  },
+  {
+    "Caption": "rtl2-bc-player",
+    "Class": "CabinetWClass",
+    "Exec": "C:\\Windows\\explorer.exe",
+    "Rect": {
+      "left": 785,
+      "top": 294,
+      "right": 1810,
+      "bottom": 1006
+    }
+  },
+  {
+    "Caption": "C:\\WINDOWS\\system32\\cmd.exe",
+    "Class": "ConsoleWindowClass",
+    "Exec": "C:\\Windows\\System32\\cmd.exe",
+    "Rect": {
+      "left": -32000,
+      "top": -32000,
+      "right": -31840,
+      "bottom": -31972
+    }
+  },
+  {
+    "Caption": "Sprehajanje psov | zavetisce-ljubljana - Firefox Developer Edition",
+    "Class": "MozillaWindowClass",
+    "Exec": "C:\\Program Files\\Firefox Developer Edition\\firefox.exe",
+    "Rect": {
+      "left": -8,
+      "top": -8,
+      "right": 1928,
+      "bottom": 1168
+    }
+  },
+  {
+    "Caption": "Skype",
+    "Class": "ApplicationFrameWindow",
+    "Exec": "C:\\Windows\\System32\\ApplicationFrameHost.exe",
+    "Rect": {
+      "left": -8,
+      "top": -8,
+      "right": 1928,
+      "bottom": 1168
+    }
+  },
+  {
+    "Caption": "Plugfree NETWORK",
+    "Class": "WindowsForms10.Window.8.app.0.141b42a_r6_ad1",
+    "Exec": "C:\\Program Files\\FUJITSU\\Plugfree NETWORK\\PFNetDm.exe",
+    "Rect": {
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    }
+  },
+  {
+    "Caption": "TestResultProvider.ts - vscode-jest - Visual Studio Code",
+    "Class": "Chrome_WidgetWin_1",
+    "Exec": "C:\\Program Files\\Microsoft VS Code\\Code.exe",
+    "Rect": {
+      "left": -32000,
+      "top": -32000,
+      "right": -31840,
+      "bottom": -31972
+    }
+  },
+  {
+    "Caption": "HipChat",
+    "Class": "Qt5QWindowOwnDCIcon",
+    "Exec": "C:\\Program Files (x86)\\Atlassian\\HipChat4\\HipChat.exe",
+    "Rect": {
+      "left": -32000,
+      "top": -32000,
+      "right": -31840,
+      "bottom": -31972
+    }
+  },
+  {
+    "Caption": "Films & TV",
+    "Class": "Windows.UI.Core.CoreWindow",
+    "Exec": "C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.17122.16211.1000_x64__8wekyb3d8bbwe\\Video.UI.exe",
+    "Rect": {
+      "left": 0,
+      "top": 0,
+      "right": 1282,
+      "bottom": 1001
+    }
+  },
+  {
+    "Caption": "Films & TV",
+    "Class": "ApplicationFrameWindow",
+    "Exec": "C:\\Windows\\System32\\ApplicationFrameHost.exe",
+    "Rect": {
+      "left": 503,
+      "top": 34,
+      "right": 1801,
+      "bottom": 1043
+    }
+  },
+  {
+    "Caption": "Settings",
+    "Class": "Windows.UI.Core.CoreWindow",
+    "Exec": "C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe",
+    "Rect": {
+      "left": 0,
+      "top": 0,
+      "right": 877,
+      "bottom": 801
+    }
+  },
+  {
+    "Caption": "Settings",
+    "Class": "ApplicationFrameWindow",
+    "Exec": "C:\\Windows\\System32\\ApplicationFrameHost.exe",
+    "Rect": {
+      "left": 415,
+      "top": 228,
+      "right": 1308,
+      "bottom": 1037
+    }
+  },
+  {
+    "Caption": "Calendar",
+    "Class": "Windows.UI.Core.CoreWindow",
+    "Exec": "C:\\Program Files\\WindowsApps\\microsoft.windowscommunicationsapps_17.9226.21755.0_x64__8wekyb3d8bbwe\\HxCalendarAppImm.exe",
+    "Rect": {
+      "left": 0,
+      "top": 0,
+      "right": 1555,
+      "bottom": 1001
+    }
+  },
+  {
+    "Caption": "Calendar",
+    "Class": "ApplicationFrameWindow",
+    "Exec": "C:\\Windows\\System32\\ApplicationFrameHost.exe",
+    "Rect": {
+      "left": 40,
+      "top": 42,
+      "right": 1611,
+      "bottom": 1051
+    }
+  },
+  {
+    "Caption": "Microsoft Edge",
+    "Class": "Windows.UI.Core.CoreWindow",
+    "Exec": "C:\\Windows\\SystemApps\\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\\MicrosoftEdgeCP.exe",
+    "Rect": {
+      "left": 0,
+      "top": 0,
+      "right": 1920,
+      "bottom": 1080
+    }
+  },
+  {
+    "Caption": "Microsoft Edge",
+    "Class": "Windows.UI.Core.CoreWindow",
+    "Exec": "C:\\Windows\\SystemApps\\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\\MicrosoftEdgeCP.exe",
+    "Rect": {
+      "left": 0,
+      "top": 0,
+      "right": 1920,
+      "bottom": 1080
+    }
+  },
+  {
+    "Caption": "Microsoft Edge",
+    "Class": "Windows.UI.Core.CoreWindow",
+    "Exec": "C:\\Windows\\SystemApps\\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\\MicrosoftEdge.exe",
+    "Rect": {
+      "left": 0,
+      "top": 8,
+      "right": 1920,
+      "bottom": 1048
+    }
+  },
+  {
+    "Caption": "Microsoft Edge",
+    "Class": "ApplicationFrameWindow",
+    "Exec": "C:\\Windows\\System32\\ApplicationFrameHost.exe",
+    "Rect": {
+      "left": -8,
+      "top": -8,
+      "right": 1928,
+      "bottom": 1168
+    }
+  },
+  {
+    "Caption": "Mail",
+    "Class": "Windows.UI.Core.CoreWindow",
+    "Exec": "C:\\Program Files\\WindowsApps\\microsoft.windowscommunicationsapps_17.9226.21755.0_x64__8wekyb3d8bbwe\\HxOutlook.exe",
+    "Rect": {
+      "left": 0,
+      "top": 8,
+      "right": 1920,
+      "bottom": 1168
+    }
+  },
+  {
+    "Caption": "Inbox - Gmail ‎- Mail",
+    "Class": "ApplicationFrameWindow",
+    "Exec": "C:\\Windows\\System32\\ApplicationFrameHost.exe",
+    "Rect": {
+      "left": -32000,
+      "top": -32000,
+      "right": -31840,
+      "bottom": -31972
+    }
+  },
+  {
+    "Caption": "Calculator",
+    "Class": "Windows.UI.Core.CoreWindow",
+    "Exec": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1805.1201.0_x64__8wekyb3d8bbwe\\Calculator.exe",
+    "Rect": {
+      "left": 0,
+      "top": 0,
+      "right": 554,
+      "bottom": 700
+    }
+  },
+  {
+    "Caption": "Calculator ‎- Calculator",
+    "Class": "ApplicationFrameWindow",
+    "Exec": "C:\\Windows\\System32\\ApplicationFrameHost.exe",
+    "Rect": {
+      "left": 35,
+      "top": 286,
+      "right": 605,
+      "bottom": 994
+    }
+  },
+  {
+    "Caption": "Plugfree NETWORK",
+    "Class": "WindowsForms10.Window.8.app.0.141b42a_r6_ad1",
+    "Exec": "C:\\Program Files\\FUJITSU\\Plugfree NETWORK\\PFNTray.exe",
+    "Rect": {
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    }
+  },
+  {
+    "Caption": "vscode-jest-testproj",
+    "Class": "CabinetWClass",
+    "Exec": "C:\\Windows\\explorer.exe",
+    "Rect": {
+      "left": -32000,
+      "top": -32000,
+      "right": -31840,
+      "bottom": -31972
+    }
+  },
+  {
+    "Caption": "Program Manager",
+    "Class": "Progman",
+    "Exec": "C:\\Windows\\explorer.exe",
+    "Rect": {
+      "left": 0,
+      "top": 0,
+      "right": 3840,
+      "bottom": 1205
+    }
+  }
+]

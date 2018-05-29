@@ -1,0 +1,45 @@
+[
+  {
+    "Class": "ConsoleWindowClass",
+    "Rect": {
+      "left": 1913,
+      "top": 125,
+      "right": 2887,
+      "bottom": 1172
+    },
+    "ZOrder": 3
+  },
+  {
+    "Class": "MozillaWindowClass",
+    "Width": {
+      "from": 0,
+      "to": 1500
+    },
+    "Rect": {
+      "left": 2875,
+      "top": 125,
+      "right": 3845,
+      "bottom": 1170
+    },
+    "ZOrder": 2
+  },
+  {
+    "Caption": ".*Google Chrome",
+    "Rect": {
+      "left": 1912,
+      "top": 117,
+      "right": 3848,
+      "bottom": 1173
+    },
+    "ZOrder": 1
+  },
+  {
+    "Caption": ".*Visual Studio.*",
+    "Rect": {
+      "left": -8,
+      "top": 0,
+      "right": 1928,
+      "bottom": 1168
+    }
+  }
+]

@@ -1,0 +1,13 @@
+C:\Repos\GitHub\win-layout\winlayout\bin\Debug\winlayout.exe.config
+C:\Repos\GitHub\win-layout\winlayout\bin\Debug\winlayout.exe
+C:\Repos\GitHub\win-layout\winlayout\bin\Debug\winlayout.pdb
+C:\Repos\GitHub\win-layout\winlayout\obj\Debug\winlayout.csprojResolveAssemblyReference.cache
+C:\Repos\GitHub\win-layout\winlayout\obj\Debug\winlayout.csproj.CoreCompileInputs.cache
+C:\Repos\GitHub\win-layout\winlayout\obj\Debug\winlayout.exe
+C:\Repos\GitHub\win-layout\winlayout\obj\Debug\winlayout.pdb
+C:\Repos\GitHub\win-layout\winlayout\bin\Debug\Win32Interop.WinHandles.dll
+C:\Repos\GitHub\win-layout\winlayout\bin\Debug\Win32Interop.WinHandles.xml
+C:\Repos\GitHub\win-layout\winlayout\bin\Debug\Win32Interop.WinHandles.pdb
+C:\Repos\GitHub\win-layout\winlayout\obj\Debug\winlayout.csproj.CopyComplete
+C:\Repos\GitHub\win-layout\winlayout\bin\Debug\Newtonsoft.Json.dll
+C:\Repos\GitHub\win-layout\winlayout\bin\Debug\Newtonsoft.Json.xml
